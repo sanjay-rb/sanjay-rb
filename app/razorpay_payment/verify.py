@@ -6,6 +6,7 @@ def verify():
     if request.method.lower() == 'post':
         try:
             params_dict = request.get_json()
+            print('params_dict', params_dict)
             return payment_client.utility.verify_payment_signature(params_dict)
         except Exception as e:
             return {
