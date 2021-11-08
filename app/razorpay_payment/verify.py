@@ -1,5 +1,5 @@
 from flask import request
-from app import app
+from app import app, api_secret
 import hmac
 import hashlib
 
@@ -11,7 +11,7 @@ def verify():
             print('params', params_dict)
             data = params_dict['razorpay_order_id'] + "|" + params_dict['razorpay_payment_id']
             signature = hmac.new(
-                str(API_SECRET),
+                api_secret,
                 msg=data,
                 digestmod=hashlib.sha256
             ).hexdigest().lower()
@@ -22,4 +22,4 @@ def verify():
             else:
                 return { 'isVerified' : False }   
         except Exception as e:
-            return { 'isVerified' : False }
+            return { 'isVerified' : False, 'error' : str(e) }
