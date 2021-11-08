@@ -11,7 +11,7 @@ def verify():
             print('params', params_dict)
             data = params_dict['razorpay_order_id'] + "|" + params_dict['razorpay_payment_id']
             signature = hmac.new(
-                str(api_secret),
+                api_secret.encode(),
                 msg=data,
                 digestmod=hashlib.sha256
             ).hexdigest().lower()
