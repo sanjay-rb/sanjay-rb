@@ -1,6 +1,6 @@
 from flask import request, Response
 
-from app import app, db
+from app import app
 from app.model.appinfo import AppInfo
 
 @app.route("/getinfo")
