@@ -1,19 +1,13 @@
 from flask import request
-from app import app
-import razorpay, os
+from app import app, payment_client
 
-@app.route("/payment")
-def payment():
-    
-    api_key = os.environ.get('PAYMENT_ID')
-    api_secret = os.environ.get('PAYMENT_SECRET')
-    client = razorpay.Client(auth=(api_key, api_secret))
-    amount = request.args.get('amount')
-    payload = {
-        "amount": float(amount) * 100.0,
-        "currency": "INR",
-    }
-    generated_signature = hmac_sha256(order_id + "|" + razorpay_payment_id, secret)
-    result = client.order.create(data=payload)
-    result['key'] = api_key
-    return result
+@app.route("/verify", methods=['POST'])
+def verify():
+    if request.method.lower() == 'post':
+        try:
+            params_dict = request.get_json()
+            return payment_client.utility.verify_payment_signature(params_dict)
+        except Exception as e:
+            return {
+                'isVerified' : False
+            }
