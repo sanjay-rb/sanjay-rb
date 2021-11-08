@@ -6,4 +6,4 @@ from flask import render_template
 def apps():
     AppInfo()
     apps = AppInfo.query.order_by(AppInfo.id).all()
-    return render_template('apps.html', apps=apps)
+    return render_template('apps.html', apps=apps, title="Applications")
