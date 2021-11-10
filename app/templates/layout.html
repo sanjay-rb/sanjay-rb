@@ -40,36 +40,43 @@
         <br>
         {% block content %}
         {% endblock %}
+        <br><br><br><br><br>
     </div>
     <!-- Footer -->
-    <footer class="page-footer font-small blue">
-
-        <div class="row" style="float: right;">
-            <div class="col">
-                <p>Contact me : </p>
-            </div>
-            <div>
-                <a href="https://api.whatsapp.com/send/?phone=+919442212906" target="_blank" rel="noopener noreferrer">
-                    <img src="https://img.icons8.com/color/25/000000/whatsapp--v1.png" />
-                </a>
-                <a href="https://twitter.com/sanjayb58109784" target="_blank" rel="noopener noreferrer">
-                    <img src="https://img.icons8.com/fluent/25/000000/twitter.png" />
-                </a>
-                <a href="https://www.linkedin.com/in/sanjay-r-b-4b2690148/" target="_blank" rel="noopener noreferrer">
-                    <img src="https://img.icons8.com/color/25/000000/linkedin.png" />
-                </a>
-                <a href="http://www.instagram.com/sanju_sanjay_618/" target="_blank" rel="noopener noreferrer">
-                    <img src="https://img.icons8.com/fluent/25/000000/instagram-new.png" />
-                </a>
-                <a href="http://www.facebook.com/sanjay.rockdj/" target="_blank" rel="noopener noreferrer">
-                    <img src="https://img.icons8.com/fluent/25/000000/facebook-new.png" />
-                </a>
-                <a href="mailto:sanjaybabu618@gmail.com">
-                    <img src="https://img.icons8.com/ios-glyphs/25/000000/email.png" />
-                </a>
-                <a href="tel:+919442212906">
-                    <img src="https://img.icons8.com/ios-glyphs/25/000000/phone.png" />
-                </a>
+    <footer class="page-footer font-small blue" style="background-color: #f8f9fa;">
+        <div class="container">
+            <br>
+            <div class="row">
+                <div class="col-xl-6">
+                    <p>QUICK LINKS</p>
+                    <a href="{{ url_for('policy') }}" rel="noopener noreferrer">Privacy Policy</a>
+                </div>
+                <div class="col-xl-6">
+                    <p>CONTACT ME : <a href="https://api.whatsapp.com/send/?phone=+919442212906" target="_blank"
+                            rel="noopener noreferrer">
+                            <img src="https://img.icons8.com/color/25/000000/whatsapp--v1.png" />
+                        </a>
+                        <a href="https://twitter.com/sanjayb58109784" target="_blank" rel="noopener noreferrer">
+                            <img src="https://img.icons8.com/fluent/25/000000/twitter.png" />
+                        </a>
+                        <a href="https://www.linkedin.com/in/sanjay-r-b-4b2690148/" target="_blank"
+                            rel="noopener noreferrer">
+                            <img src="https://img.icons8.com/color/25/000000/linkedin.png" />
+                        </a>
+                        <a href="http://www.instagram.com/sanju_sanjay_618/" target="_blank" rel="noopener noreferrer">
+                            <img src="https://img.icons8.com/fluent/25/000000/instagram-new.png" />
+                        </a>
+                        <a href="http://www.facebook.com/sanjay.rockdj/" target="_blank" rel="noopener noreferrer">
+                            <img src="https://img.icons8.com/fluent/25/000000/facebook-new.png" />
+                        </a>
+                        <a href="mailto:sanjaybabu618@gmail.com">
+                            <img src="https://img.icons8.com/ios-glyphs/25/000000/email.png" />
+                        </a>
+                        <a href="tel:+919442212906">
+                            <img src="https://img.icons8.com/ios-glyphs/25/000000/phone.png" />
+                        </a>
+                    </p>
+                </div>
             </div>
         </div>
     </footer>
