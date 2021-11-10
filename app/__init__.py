@@ -21,7 +21,7 @@ payment_client = razorpay.Client(auth=(api_key, api_secret))
 from app import home
 from app import apps
 from app import about
-from app import policy
+from app import privacy
 from app import not_found
 
 # app-ads.txt file 
