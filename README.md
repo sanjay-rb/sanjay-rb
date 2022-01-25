@@ -26,20 +26,20 @@
 
 ---
 
-[![sanjaysanju618's Github stats](https://github-readme-stats.vercel.app/api?username=sanjaysanju618&show_icons=true)](https://github.com/sanjaysanju618?tab=repositories)
+[![sanjay-rb's Github stats](https://github-readme-stats.vercel.app/api?username=sanjay-rb&show_icons=true)](https://github.com/sanjay-rb?tab=repositories)
 
 ---
 
 ### Favorite Repos:
 
-[![Natural Disaster Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjaysanju618&repo=Natural_Disaster)](https://github.com/sanjaysanju618/Natural_Disaster) [![100-Days-Of-Flutter-Widgets Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjaysanju618&repo=100-Days-Of-Flutter-Widgets)](https://github.com/sanjaysanju618/100-Days-Of-Flutter-Widgets)
+[![Natural Disaster Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjay-rb&repo=Natural_Disaster)](https://github.com/sanjay-rb/Natural_Disaster) [![100-Days-Of-Flutter-Widgets Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjay-rb&repo=100-Days-Of-Flutter-Widgets)](https://github.com/sanjay-rb/100-Days-Of-Flutter-Widgets)
 
-[![100-Days-of-Code Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjaysanju618&repo=100-Days-of-Code)](https://github.com/sanjaysanju618/100-Days-of-Code) [![Ticket-Assignment-Automation](https://github-readme-stats.vercel.app/api/pin/?username=sanjaysanju618&repo=Ticket-Assignment-Automation)](https://github.com/sanjaysanju618/Ticket-Assignment-Automation)
+[![100-Days-of-Code Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjay-rb&repo=100-Days-of-Code)](https://github.com/sanjay-rb/100-Days-of-Code) [![Ticket-Assignment-Automation](https://github-readme-stats.vercel.app/api/pin/?username=sanjay-rb&repo=Ticket-Assignment-Automation)](https://github.com/sanjay-rb/Ticket-Assignment-Automation)
 
 
 [twitter]: https://twitter.com/sanjayb58109784
 [instagram]: https://www.instagram.com/sanju_sanjay_618/
 [linkedin]: https://www.linkedin.com/in/sanjay-r-b-4b2690148/
-[github]: https://github.com/sanjaysanju618/
+[github]: https://github.com/sanjay-rb/
 [facebook]: https://www.facebook.com/sanjay.rockdj/
 [mailto]: mailto:sanjaybabu618@gmail.com
