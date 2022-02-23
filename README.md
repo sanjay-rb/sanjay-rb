@@ -1,6 +1,6 @@
 ### Hi there, I'm Sanjay R B <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm Assistant Software Engineer, Computer Science Engineer, Self Learner!
+## I'm Software Engineer, Computer Science Engineer, Self Learner!
 
 - 🔭 I’m currently working on Tata Consulting Services aka [TCS](https://www.tcs.com/).
 - 🌱 I’m currently learning [Machine learning](https://bit.ly/2ZrZH9S)
