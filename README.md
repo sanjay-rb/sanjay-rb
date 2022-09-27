@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Tata Consulting Services aka [TCS](https://www.tcs.com/).
 - 🌱 I’m currently learning [Machine learning](https://bit.ly/2ZrZH9S)
-- 🥅 2021 Goals: To deploy many applications in [Google Play Store](https://play.google.com/store/apps/developer?id=Sanjay+R+B). (2 / N)
+- 🥅 2022 Goals: To deploy many applications in [Google Play Store](https://play.google.com/store/apps/developer?id=Sanjay+R+B). (2 / N)
 - 😃 Hobby: Learning new things by taking 100 Days Challenges.
 - ⚡ Fun fact: I'm a percussionist in NxtGen Music Band.
 
