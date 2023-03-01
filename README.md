@@ -9,6 +9,10 @@
 - ⚡ Fun fact: I'm a percussionist in NxtGen Music Band.
 
 ---
+### My GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=sanjay-rb)](https://github.com/sanjay-rb)
+
+
 
 ### Connect with me:
 
