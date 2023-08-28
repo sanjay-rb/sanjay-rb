@@ -3,8 +3,8 @@
 ## I'm Software Engineer, Computer Science Engineer, Self Learner!
 
 - 🔭 I’m currently working on Tata Consulting Services aka [TCS](https://www.tcs.com/).
-- 🌱 I’m currently learning [Machine learning](https://bit.ly/2ZrZH9S)
-- 🥅 2022 Goals: To deploy many applications in [Google Play Store](https://play.google.com/store/apps/developer?id=Sanjay+R+B). (2 / N)
+- 🌱 I’m currently learning [Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
+- 🥅 2023 Goals: To deploy many applications in [Google Play Store](https://play.google.com/store/apps/developer?id=Sanjay+R+B). (2 / N)
 - 😃 Hobby: Learning new things by taking 100 Days Challenges.
 - ⚡ Fun fact: I'm a percussionist in NxtGen Music Band.
 
@@ -16,6 +16,7 @@
 
 ### Connect with me:
 
+[<img src="https://img.icons8.com/fluent/26/000000/link.png"/>][portfolio]
 [<img src="https://img.icons8.com/fluent/26/000000/twitter.png"/>][twitter]
 [<img src="https://img.icons8.com/color/26/000000/linkedin.png"/>][linkedin]
 [<img src="https://img.icons8.com/fluent/26/000000/instagram-new.png"/>][instagram]
@@ -36,9 +37,9 @@
 
 ### Favorite Repos:
 
-[![Natural Disaster Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjay-rb&repo=Natural_Disaster)](https://github.com/sanjay-rb/Natural_Disaster) [![100-Days-Of-Flutter-Widgets Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjay-rb&repo=100-Days-Of-Flutter-Widgets)](https://github.com/sanjay-rb/100-Days-Of-Flutter-Widgets)
+[![100-Days-of-Code Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjay-rb&repo=100-Days-of-Code)](https://github.com/sanjay-rb/100-Days-of-Code) 
 
-[![100-Days-of-Code Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjay-rb&repo=100-Days-of-Code)](https://github.com/sanjay-rb/100-Days-of-Code) [![Ticket-Assignment-Automation](https://github-readme-stats.vercel.app/api/pin/?username=sanjay-rb&repo=Ticket-Assignment-Automation)](https://github.com/sanjay-rb/Ticket-Assignment-Automation)
+[![Ticket-Assignment-Automation](https://github-readme-stats.vercel.app/api/pin/?username=sanjay-rb&repo=Ticket-Assignment-Automation)](https://github.com/sanjay-rb/Ticket-Assignment-Automation)
 
 
 [twitter]: https://twitter.com/sanjayb58109784
@@ -47,3 +48,4 @@
 [github]: https://github.com/sanjay-rb/
 [facebook]: https://www.facebook.com/sanjay.rockdj/
 [mailto]: mailto:sanjaybabu618@gmail.com
+[portfolio]: https://sanjay-rb.github.io/
