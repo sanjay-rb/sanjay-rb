@@ -37,9 +37,7 @@
 
 ### Favorite Repos:
 
-[![100-Days-of-Code Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjay-rb&repo=100-Days-of-Code)](https://github.com/sanjay-rb/100-Days-of-Code) 
-
-[![Ticket-Assignment-Automation](https://github-readme-stats.vercel.app/api/pin/?username=sanjay-rb&repo=Ticket-Assignment-Automation)](https://github.com/sanjay-rb/Ticket-Assignment-Automation)
+[![100-Days-of-Code Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjay-rb&repo=100-Days-of-Code)](https://github.com/sanjay-rb/100-Days-of-Code) [![Ticket-Assignment-Automation](https://github-readme-stats.vercel.app/api/pin/?username=sanjay-rb&repo=Ticket-Assignment-Automation)](https://github.com/sanjay-rb/Ticket-Assignment-Automation)
 
 
 [twitter]: https://twitter.com/sanjayb58109784
