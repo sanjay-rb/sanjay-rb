@@ -1,6 +1,0 @@
-from app import app
-from flask import render_template
-
-@app.route("/")
-def home():
-    return render_template('home.html', title="Hi there, I'm Sanjay R B 👋")
