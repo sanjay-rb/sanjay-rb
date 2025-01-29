@@ -42,8 +42,8 @@
 
 [twitter]: https://twitter.com/sanjayb58109784
 [instagram]: https://www.instagram.com/sanju_sanjay_618/
-[linkedin]: https://www.linkedin.com/in/sanjay-r-b-4b2690148/
+[linkedin]: https://www.linkedin.com/in/sanjayrb/
 [github]: https://github.com/sanjay-rb/
-[facebook]: https://www.facebook.com/sanjay.rockdj/
+[facebook]: https://www.facebook.com/sanjayramasserybabu
 [mailto]: mailto:sanjaybabu618@gmail.com
 [portfolio]: https://sanjay-rb.github.io/
