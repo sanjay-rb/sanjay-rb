@@ -3,8 +3,8 @@
 ## I'm Software Engineer, Computer Science Engineer, Self Learner!
 
 - 🔭 I’m currently working on Tata Consulting Services aka [TCS](https://www.tcs.com/).
-- 🌱 I’m currently learning [CI/CD](https://en.wikipedia.org/wiki/CI/CD) &  [Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
-- 🥅 2024 Goals: To deploy many applications in [Google Play Store](https://play.google.com/store/apps/developer?id=Sanjay+R+B). (3 / N)
+- 🌱 I’m currently learning [DataOps](https://en.wikipedia.org/wiki/DataOps) &  [Generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
+- 🥅 2025 Goals: To deploy many applications in [Google Play Store](https://play.google.com/store/apps/developer?id=Sanjay+R+B). (3 / N)
 - 😃 Hobby: Learning new things by taking 100 Days Challenges.
 - ⚡ Fun fact: I'm a percussionist in NxtGen Music Band.
 
