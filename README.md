@@ -2,8 +2,6 @@
 
 <h1>Hi there, I'm Sanjay R B <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h1>
 
-## 🚀 About Me
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=19&pause=1000&color=00F70A&center=true&vCenter=true&width=435&lines=Lead+Software+Engineer+%7C+5%2B+Years;GenAI+%26+Platform+Engineer;System+Design+%7C+CI%2FCD+%7C+DevOps" alt="Typing SVG" />
 </p>
