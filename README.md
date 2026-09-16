@@ -15,6 +15,37 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sanjay-rb/selfhosted-n8n-local-llm">Self-hosted n8n + Local LLM</a></h3>
+      <p>Docker-based local AI automation stack combining n8n with Ollama and Llama 3.2 for private workflows on Apple Silicon.</p>
+      <p><code>Docker</code> <code>n8n</code> <code>Ollama</code> <code>Llama 3.2</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sanjay-rb/commit-to-love">Commit to Love</a></h3>
+      <p>A GitHub Action that generates daily love riddles, sends them to Telegram, and commits them to a repository.</p>
+      <p><code>Python</code> <code>GitHub Actions</code> <code>LLM</code> <code>Telegram</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sanjay-rb/quotegram-generator">Quotegram Generator</a></h3>
+      <p>Automated content pipeline for creating inspirational quote images and short videos, then publishing them to YouTube.</p>
+      <p><code>Python</code> <code>Hugging Face</code> <code>MoviePy</code> <code>FFmpeg</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sanjay-rb/loga_parameshwari">Loga Parameshwari Temple</a></h3>
+      <p>Mobile app for temple pooja scheduling, real-time updates, event information, family sharing, and navigation.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>Google Maps</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🌐 Connect & Collaborate
 
 <p align="left">
